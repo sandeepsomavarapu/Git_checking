@@ -1,7 +1,7 @@
 package com.ericsson.oops;
 
 public class Product {
-
+//comment for checking git 
 	private int productId;
 	private String productName;
 	private int productPrice;
